@@ -281,21 +281,21 @@ Some features that can be added in future versions:
 
 Add screenshots of your application here:
 
-```markdown
+
 ## Screenshots
 
 ### Home Page
 
-![Home Page](screenshots/Home.png)
+screenshots/Home.png
 
 ### Pastes Page
 
-![Pastes Page](screenshots/Pastes.png)
+screenshots/Pastes.png
 
 ### View Paste
 
-![View Paste](screenshots/ViewPaste.png)
-```
+screenshots/ViewPaste.png
+
 
 ---
 
