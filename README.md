@@ -286,15 +286,15 @@ Add screenshots of your application here:
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Home.png)
 
 ### Pastes Page
 
-![Pastes Page](screenshots/pastes.png)
+![Pastes Page](screenshots/Pastes.png)
 
 ### View Paste
 
-![View Paste](screenshots/view-paste.png)
+![View Paste](screenshots/ViewPaste.png)
 ```
 
 ---
